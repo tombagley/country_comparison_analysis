@@ -1,7 +1,7 @@
 # Country Comparison Analysis
 
 **Overview**
-The Country Comparison Project is a data analysis and visualization tool that explores economic and social indicators across countries, with a focus on metrics such as healthcare expenditure, unemployment rate, and inflation rate over time. This project aims to provide insights into how various global events (e.g., COVID-19, financial crises) have influenced these indicators. The interactive map visualization allows users to explore trends across different years and events.
+The Country Comparison Project is a data analysis and visualization tool that explores economic and social indicators across countries, with a focus on metrics such as healthcare expenditure, unemployment rate, and inflation rate over time. This project aims to provide insights into how various global events (e.g., COVID-19, financial crises) have influenced these indicators. The interactive map visualization allows users to explore trends across different years and events. This project was coloaborated on with Daphine Nyangena, Karina Ahumada, Jana Naum, and Dimitry Jean-Noel.
 
 **Project Structure**
 
